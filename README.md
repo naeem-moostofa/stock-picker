@@ -1,4 +1,7 @@
 # stock-picker
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+
 Evaluates stocks and creates a diversified portfolio with the goal of outperforming the market. 
 
 ## Project Description
